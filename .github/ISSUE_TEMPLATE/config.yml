@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Professional setup or maintenance
+    url: https://get.webhaat.org
+    about: Want us to install, brand or maintain your store? Order through the sales website.
+  - name: Security vulnerability
+    url: https://github.com/shovovai/ecom-illiyan/security/advisories/new
+    about: Report security problems privately, not as a public issue.
